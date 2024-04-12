@@ -1,0 +1,9 @@
+# Original Dataset too large for github
+/data/gdelt_conflict_1_0.csv
+
+/data/**
+
+# ignore scratch
+/Scratch.ipynb
+/IPYNB Files/**
+
