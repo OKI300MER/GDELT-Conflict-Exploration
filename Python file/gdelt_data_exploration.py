@@ -28,7 +28,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import mean_squared_error
 
 # Load the dataset
-gdelt_data = pd.read_csv('path_to_your_file.csv')
+gdelt_data = pd.read_csv(r'C:\Users\shric\Desktop\Dai\assignments\CAPSTONE\GDELT-Conflict-Exploration\data\gdelt_conflict_1_0.csv')
 
 # Drop rows with missing values
 gdelt_data.dropna(inplace=True)
