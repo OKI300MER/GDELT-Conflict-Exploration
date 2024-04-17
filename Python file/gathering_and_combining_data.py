@@ -81,4 +81,3 @@ for file in os.listdir(csv_dir):
 combined_df.to_csv('combined_data.csv', index=False)
 print("Combined data saved to combined_data.csv")
 
-''' The second part of this code is for actually cleaning and working the data'''

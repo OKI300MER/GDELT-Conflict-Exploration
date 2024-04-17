@@ -1,5 +1,7 @@
 # Original Dataset too large for github
 /data/gdelt_conflict_1_0.csv
+/data/cleaned_terrorism.csv
+/data/merged_data.csv
 
 /data/**
 
